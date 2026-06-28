@@ -17,18 +17,19 @@ This repository contains MATLAB simulations for wireless communication and optim
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw1-mimo-capacity-and-ber/results/Capacity.jpg" width="360" alt="CW1 capacity result">
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td width="100%" align="center">
       <img src="cw1-mimo-capacity-and-ber/results/ALL%20results.jpg" width="360" alt="CW1 BER comparison">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw1-mimo-capacity-and-ber/results/MIMO%20SM%20reception.jpg" width="360" alt="CW1 MIMO spatial multiplexing">
     </td>
-    <td width="50%" align="center"></td>
   </tr>
 </table>
 
@@ -36,18 +37,19 @@ This repository contains MATLAB simulations for wireless communication and optim
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw2-massive-mimo-simulation/results/Random_deployment.png" width="360" alt="CW2 random deployment">
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td width="100%" align="center">
       <img src="cw2-massive-mimo-simulation/results/Long_term%20SINR.png" width="360" alt="CW2 long-term SINR">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw2-massive-mimo-simulation/results/Task6_result.png" width="360" alt="CW2 block diagonalisation result">
     </td>
-    <td width="50%" align="center"></td>
   </tr>
 </table>
 
@@ -55,18 +57,19 @@ This repository contains MATLAB simulations for wireless communication and optim
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw3-beamforming-and-ris-optimisation/results/dB_optimisation_plot_task1.png" width="360" alt="CW3 beamforming optimisation">
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td width="100%" align="center">
       <img src="cw3-beamforming-and-ris-optimisation/results/Task2.png" width="360" alt="CW3 WMMSE comparison">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="cw3-beamforming-and-ris-optimisation/results/Task4_increase_M.png" width="360" alt="CW3 RIS antenna sweep">
     </td>
-    <td width="50%" align="center"></td>
   </tr>
 </table>
 
@@ -80,4 +83,3 @@ run("cw1-mimo-capacity-and-ber/main.m");
 ```
 
 For the massive MIMO and optimisation experiments, use the corresponding top-level scripts inside `cw2-massive-mimo-simulation/legacy`, `cw2-massive-mimo-simulation/latest`, or `cw3-beamforming-and-ris-optimisation/`.
-
