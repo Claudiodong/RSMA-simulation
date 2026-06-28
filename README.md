@@ -48,6 +48,3 @@ run("cw1-mimo-capacity-and-ber/main.m");
 
 For the massive MIMO and optimisation experiments, use the corresponding top-level scripts inside `cw2-massive-mimo-simulation/legacy`, `cw2-massive-mimo-simulation/latest`, or `cw3-beamforming-and-ris-optimisation/`.
 
-## Privacy Notes
-
-This repository is prepared for public sharing. It does not include personal reports, coursework PDFs, lecture notes, compressed submission files, document exports, or private identifiers. MATLAB comments have been cleaned so that author metadata uses `Claudio Dong`.
