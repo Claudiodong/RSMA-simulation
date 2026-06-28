@@ -15,63 +15,45 @@ This repository contains MATLAB simulations for wireless communication and optim
 
 ### MIMO Capacity and BER
 
-<table>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw1-mimo-capacity-and-ber/results/Capacity.jpg" width="360" alt="CW1 capacity result">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw1-mimo-capacity-and-ber/results/ALL%20results.jpg" width="360" alt="CW1 BER comparison">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw1-mimo-capacity-and-ber/results/MIMO%20SM%20reception.jpg" width="360" alt="CW1 MIMO spatial multiplexing">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="cw1-mimo-capacity-and-ber/results/Capacity.jpg" width="360" alt="CW1 capacity result">
+</p>
+
+<p align="center">
+  <img src="cw1-mimo-capacity-and-ber/results/ALL%20results.jpg" width="360" alt="CW1 BER comparison">
+</p>
+
+<p align="center">
+  <img src="cw1-mimo-capacity-and-ber/results/MIMO%20SM%20reception.jpg" width="360" alt="CW1 MIMO spatial multiplexing">
+</p>
 
 ### Massive MIMO Simulation
 
-<table>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw2-massive-mimo-simulation/results/Random_deployment.png" width="360" alt="CW2 random deployment">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw2-massive-mimo-simulation/results/Long_term%20SINR.png" width="360" alt="CW2 long-term SINR">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw2-massive-mimo-simulation/results/Task6_result.png" width="360" alt="CW2 block diagonalisation result">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="cw2-massive-mimo-simulation/results/Random_deployment.png" width="360" alt="CW2 random deployment">
+</p>
+
+<p align="center">
+  <img src="cw2-massive-mimo-simulation/results/Long_term%20SINR.png" width="360" alt="CW2 long-term SINR">
+</p>
+
+<p align="center">
+  <img src="cw2-massive-mimo-simulation/results/Task6_result.png" width="360" alt="CW2 block diagonalisation result">
+</p>
 
 ### Beamforming and RIS Optimisation
 
-<table>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw3-beamforming-and-ris-optimisation/results/dB_optimisation_plot_task1.png" width="360" alt="CW3 beamforming optimisation">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw3-beamforming-and-ris-optimisation/results/Task2.png" width="360" alt="CW3 WMMSE comparison">
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="cw3-beamforming-and-ris-optimisation/results/Task4_increase_M.png" width="360" alt="CW3 RIS antenna sweep">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="cw3-beamforming-and-ris-optimisation/results/dB_optimisation_plot_task1.png" width="360" alt="CW3 beamforming optimisation">
+</p>
+
+<p align="center">
+  <img src="cw3-beamforming-and-ris-optimisation/results/Task2.png" width="360" alt="CW3 WMMSE comparison">
+</p>
+
+<p align="center">
+  <img src="cw3-beamforming-and-ris-optimisation/results/Task4_increase_M.png" width="360" alt="CW3 RIS antenna sweep">
+</p>
 
 ## Running the Simulations
 
