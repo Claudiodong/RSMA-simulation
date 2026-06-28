@@ -65,3 +65,5 @@ run("cw1-mimo-capacity-and-ber/main.m");
 ```
 
 For the massive MIMO and optimisation experiments, use the corresponding top-level scripts inside `cw2-massive-mimo-simulation/legacy`, `cw2-massive-mimo-simulation/latest`, or `cw3-beamforming-and-ris-optimisation/`.
+
+Author: Claudio Dong
