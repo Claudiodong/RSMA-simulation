@@ -1,0 +1,13 @@
+# Personal/coursework documents and submission archives are intentionally excluded.
+*.pdf
+*.doc
+*.docx
+*.zip
+*.rar
+*.7z
+*.mlx
+
+# MATLAB/editor generated files.
+*.asv
+._*
+.DS_Store
