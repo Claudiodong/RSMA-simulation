@@ -1,6 +1,6 @@
 # RSMA Simulation and Wireless Communication Experiments
 
-This repository contains MATLAB simulations for wireless communication and optimisation experiments. It is organised as a public, code-focused version of the project: source code, simulation data, and generated result images are included, while reports, coursework question sheets, lecture notes, archives, and personal submission documents are excluded.
+This repository contains MATLAB simulations for wireless communication and optimisation experiments. 
 
 ## Project Structure
 
